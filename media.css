@@ -1,0 +1,1074 @@
+@media (max-width: 1440px) {
+  .section-text h1 {
+    font-size: 64px;
+  }
+  .section-text h1 span {
+    font-size: 56px;
+    line-height: 0;
+  }
+
+  .section-text p {
+    padding: 22px 0;
+  }
+  .section-pos img {
+    width: 500px;
+  }
+
+  .section1-title {
+    position: relative;
+    right: 33px;
+    bottom: -59px;
+  }
+  .section2-title {
+    position: relative;
+    right: -406px;
+    top: -16px;
+  }
+  .section-conts img {
+    width: 500px;
+  }
+  .conts-text h1 {
+    font-size: 64px;
+    line-height: 60px;
+  }
+  .conts-text h3 {
+    font-size: 22px;
+    padding-bottom: 21px;
+  }
+  #section-conts {
+    padding: 120px 155px 120px 140px;
+  }
+  .pricing h1 {
+    padding: 30px 0 40px 0;
+    font-size: 66px;
+    line-height: 40px;
+  }
+  #section-kard {
+    padding: 50px 145px 120px 140px;
+  }
+}
+@media (max-width: 1200px) {
+  .header-nav button {
+    font-size: 16px;
+    width: 155px;
+    height: 46px;
+  }
+  .section-text h3 {
+    padding-bottom: 0px;
+    font-size: 21px;
+  }
+  .section-text h1 {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 65px;
+  }
+  .section-pos img {
+    width: 400px;
+  }
+  #section-main {
+    padding: 20px 99px 20px 141px;
+  }
+  .section-text button {
+    font-size: 16px;
+    width: 173px;
+    height: 50px;
+  }
+
+  .section-text p {
+    padding: 15px 0;
+  }
+  .section1-title {
+    position: relative;
+    right: 54px;
+    bottom: -41px;
+  }
+  .section2-title {
+    position: relative;
+    right: -332px;
+    top: -12px;
+  }
+  .section-conts img {
+    width: 400px;
+  }
+
+  .conts-text h3 {
+    font-size: 20px;
+    padding-bottom: 8px;
+  }
+  .conts-text h1 {
+    font-size: 50px;
+    line-height: 50px;
+  }
+  .conts-text p {
+    padding: 12px 0;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .conts-text button {
+    font-size: 16px;
+    width: 167px;
+    height: 43.817px;
+  }
+  .pricing p {
+    font-size: 23px;
+    line-height: 18px;
+  }
+  .pricing h1 {
+    padding: 27px 0 40px 0;
+    font-size: 60px;
+    line-height: 40px;
+  }
+  .kard1 {
+    width: 301.182px;
+    height: 534px;
+  }
+  .kard1 h1 {
+    font-size: 28px;
+    padding-top: 22px;
+  }
+
+  .pric h2 {
+    font-size: 45px;
+  }
+
+  .pric span {
+    font-size: 17px;
+  }
+  .pric h4 {
+    font-size: 25px;
+  }
+  .kard1 button {
+    font-size: 16px;
+    width: 199px;
+    height: 47px;
+  }
+  #section-kard {
+    background: #f8cfb8;
+    padding: 50px 111px 100px 110px;
+  }
+  #footer {
+    padding: 50px 101px 50px 109px;
+  }
+  .footer img {
+    width: 240px;
+  }
+  .footer p {
+    font-size: 16px;
+  }
+  .icon div {
+    font-size: 26px;
+    width: 46px;
+    height: 46px;
+  }
+}
+@media (max-width: 1024px) {
+  .header img {
+    width: 240px;
+  }
+  .header-nav a {
+    margin-left: 17px;
+    font-size: 16px;
+  }
+  .header-nav button {
+    margin-left: 20px;
+    font-size: 18px;
+    width: 174px;
+    height: 46px;
+  }
+  .section-text h1 {
+    font-size: 60px;
+    line-height: 55px;
+  }
+  .section-pos img {
+    width: 350px;
+  }
+
+  .section1-title {
+    width: 183px;
+    height: 86px;
+  }
+  .section1-title {
+    position: relative;
+    right: 74px;
+    bottom: -47px;
+  }
+  .section1-title img {
+    width: 80px;
+  }
+  .section2-title {
+    width: 183px;
+    height: 91px;
+  }
+  .section2-title {
+    position: relative;
+    right: -281px;
+    top: -12px;
+  }
+  .section-text h1 {
+    font-size: 50px;
+  }
+  .section-text p {
+    padding: 9px 0;
+  }
+  .section-text p {
+    padding: 20px 0;
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .section-text button {
+    font-size: 14px;
+    width: 158px;
+    height: 43px;
+  }
+  .section-conts img {
+    width: 350px;
+  }
+  .conts-text h1 {
+    font-size: 42px;
+    line-height: 40px;
+  }
+  .conts-text p {
+    font-size: 14px;
+  }
+  .conts-text button {
+    font-size: 14px;
+    width: 137px;
+    height: 37.817px;
+  }
+  #section-conts {
+    padding: 75px 130px 70px 130px;
+  }
+  .conts-text h3 {
+    font-size: 18px;
+  }
+  .pricing h1 {
+    padding: 17px 0 40px 0;
+    font-size: 56px;
+  }
+  .kard1 h1 {
+    font-size: 26px;
+    padding-top: 20px;
+  }
+  .pric {
+    margin: 17px 0 26px 0;
+  }
+  .pric h2 {
+    font-size: 40px;
+  }
+  .section-kards p {
+    padding-bottom: 16px;
+    font-size: 18px;
+  }
+  .kard1 button {
+    font-size: 14px;
+    width: 154px;
+    height: 41px;
+  }
+  .kard1 {
+    width: 269.182px;
+    height: 468px;
+    padding: 0 0 0 39px;
+  }
+  #section-kard {
+    background: #f8cfb8;
+    padding: 42px 75px 86px 81px;
+  }
+  .footer img {
+    width: 205px;
+  }
+  .icon div {
+    font-size: 23px;
+    width: 42px;
+    height: 42px;
+  }
+}
+@media (max-width: 992px) {
+  .section-main {
+    flex-direction: column;
+  }
+  .section-text h3 {
+    padding-top: 20px;
+    font-size: 21px;
+    font-weight: 500;
+  }
+  .section-text {
+    text-align: center;
+  }
+  .section-text h1 {
+    font-size: 56px;
+    line-height: 55px;
+  }
+  .header-nav button {
+    font-size: 14px;
+    width: 147px;
+    height: 38px;
+  }
+  .header img {
+    width: 206px;
+  }
+  .conts-text h1 {
+    font-size: 39px;
+  }
+  .section-conts img {
+    width: 342px;
+  }
+  .pricing h1 {
+    padding: 24px 0 35px 0;
+    font-size: 50px;
+    font-weight: 700;
+  }
+  .kard1 {
+    width: 269.182px;
+    height: 450px;
+    padding: 0 0 0 39px;
+  }
+  .pric h2 {
+    font-size: 35px;
+  }
+  .pric h4 {
+    font-size: 22px;
+  }
+  footer img {
+    width: 178px;
+  }
+  .footer p {
+    font-size: 14px;
+  }
+  #footer {
+    padding: 42px 76px 39px 90px;
+  }
+}
+@media (max-width: 768px) {
+  .header-nav button {
+    font-size: 12px;
+    width: 118px;
+    height: 34px;
+  }
+  .header-nav a {
+    margin-left: 8px;
+    font-size: 14px;
+  }
+  .header img {
+    width: 143px;
+  }
+  .section-text h1 {
+    font-size: 52px;
+    line-height: 55px;
+  }
+  .section-text p {
+    padding: 15px 0;
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .section-text button {
+    font-size: 14px;
+    width: 144px;
+    height: 40px;
+  }
+  .section-pos img {
+    width: 343px;
+  }
+  .section-text h3 {
+    padding-bottom: 15px;
+    font-size: 21px;
+  }
+  .section1-title img {
+    width: 78px;
+  }
+
+  .section2-title img {
+    width: 75px;
+  }
+  .section2-title {
+    position: relative;
+    right: -270px;
+    top: -12px;
+  }
+  .section-conts {
+    flex-direction: column;
+  }
+  .conts-text {
+    text-align: center;
+  }
+  .conts-text h1 {
+    font-size: 36px;
+  }
+  .conts-text h3 {
+    font-size: 16px;
+    padding-top: 35px;
+  }
+  .section-conts {
+    padding: 20px 0 64px 0;
+  }
+  .section-kards {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+  }
+  .pricing h1 {
+    padding: 13px 0 30px 0;
+    font-size: 40px;
+  }
+  .kard1 {
+    width: 252px;
+    height: 428px;
+    padding: 0 0 0 31px;
+  }
+  .footer {
+    flex-direction: column;
+    gap: 10px;
+  }
+  #footer {
+    padding: 20px 75px 26px 90px;
+  }
+}
+@media (max-width: 576px) {
+  .header {
+    padding: 20px 40px 20px 45px;
+  }
+  .header img {
+    width: 130px;
+  }
+  .header-nav a {
+    margin-left: 7px;
+    font-size: 12px;
+  }
+  .header-nav button {
+    font-size: 11px;
+    width: 103px;
+    height: 28px;
+  }
+  #section-main {
+    padding: 9px 99px 20px 102px;
+  }
+  .section-text h3 {
+    padding-bottom: 5px;
+    font-size: 19px;
+  }
+  .section-text h1 {
+    font-size: 48px;
+  }
+  .section-text h1 span {
+    font-size: 48px;
+  }
+  .section-text button {
+    font-size: 12px;
+    width: 114px;
+    height: 36px;
+  }
+  .section-text p {
+    padding: 10px 0;
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .text h2 {
+    padding-top: 7px;
+    font-size: 9px;
+  }
+  .text p {
+    margin: 7px 0;
+    font-size: 9px;
+    line-height: 3px;
+  }
+  .section1-title img {
+    width: 59px;
+  }
+  .section2-title img {
+    width: 59px;
+  }
+
+  .section1-title {
+    width: 168px;
+    height: 78px;
+  }
+  .section1-title {
+    position: relative;
+    right: 42px;
+    bottom: -47px;
+  }
+
+  .section2-title {
+    width: 168px;
+    height: 78px;
+  }
+  #section-conts {
+    padding: 45px 96px 33px 93px;
+  }
+  .pricing h1 {
+    padding: 5px 0 22px 0;
+    font-size: 35px;
+  }
+  .pricing p {
+    font-size: 21px;
+  }
+  .kard1 h1 {
+    font-size: 23px;
+    padding-top: 11px;
+  }
+  .pric h2 {
+    font-size: 30px;
+  }
+  .pric span {
+    font-size: 15px;
+  }
+  .pric h4 {
+    font-size: 20px;
+  }
+  .section-kards p {
+    padding-bottom: 5px;
+    font-size: 15px;
+  }
+  .kard1 button {
+    font-size: 12px;
+    width: 127px;
+    height: 36px;
+  }
+  .kard1 {
+    width: 209px;
+    height: 369px;
+    padding: 0 0 0 24px;
+  }
+  #section-kard {
+    padding: 21px 43px 62px 43px;
+  }
+  .footer img {
+    width: 157px;
+  }
+  .footer p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .icon div {
+    font-size: 21px;
+    width: 36px;
+    height: 37px;
+  }
+}
+@media (max-width: 451px) {
+  .header img {
+    width: 108px;
+  }
+  .header-nav a {
+    margin-left: 4px;
+    font-size: 10px;
+  }
+  .header-nav button {
+    font-size: 9px;
+    width: 74px;
+    height: 22px;
+  }
+  .header {
+    padding: 10px 32px 10px -4px;
+  }
+  .section-text h3 {
+    padding-bottom: 0px;
+    font-size: 15px;
+  }
+  .section-text h1 {
+    font-size: 38px;
+  }
+  .section-text h1 span {
+    font-size: 38px;
+  }
+  .section-text h3 {
+    padding-top: 10px;
+  }
+  .section-text h1 {
+    line-height: 45px;
+  }
+  .section-text p {
+    padding: 10px 0;
+    font-size: 12px;
+    line-height: 14px;
+  }
+  #section-main {
+    padding: 9px 50px 20px 54px;
+  }
+  .section-text button {
+    font-size: 10px;
+    width: 93px;
+    height: 28px;
+  }
+  .section-pos img {
+    width: 280px;
+  }
+  .section1-title {
+    width: 130px;
+    height: 71px;
+  }
+  .section2-title {
+    width: 136px;
+    height: 71px;
+  }
+  .section1-title img {
+    width: 49px;
+  }
+  .text h2 {
+    font-size: 7px;
+  }
+  .text p {
+    margin: 7px 0;
+    font-size: 7px;
+    line-height: 0px;
+  }
+  .section1-title {
+    position: relative;
+    right: 29px;
+    bottom: -47px;
+  }
+
+  .section2-title img {
+    width: 49px;
+  }
+  .icons {
+    font-size: 8px;
+  }
+  .text p {
+    margin: 5px 0;
+    font-size: 6px;
+    line-height: 0px;
+  }
+  .section2-title {
+    position: relative;
+    right: -233px;
+    top: -12px;
+  }
+  .section-conts img {
+    width: 290px;
+  }
+  .conts-text h3 {
+    font-size: 14px;
+  }
+  .conts-text h1 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+  .conts-text p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  #section-conts {
+    padding: 45px 62px 33px 62px;
+  }
+  .conts-text button {
+    font-size: 12px;
+    width: 109px;
+    height: 31px;
+  }
+  .section-conts {
+    padding: 20px 0 24px 0;
+  }
+  .pricing p {
+    font-size: 18px;
+  }
+  .pricing h1 {
+    padding: 5px 0 12px 0;
+    font-size: 28px;
+  }
+  .kard1 h1 {
+    font-size: 20px;
+  }
+  .pric h2 {
+    font-size: 25px;
+  }
+  .pric span {
+    font-size: 14px;
+  }
+  .pric h4 {
+    font-size: 16px;
+  }
+  .pric {
+    margin: 11px 0 17px 0;
+  }
+  .section-kards p {
+    padding-bottom: 1px;
+    font-size: 13px;
+  }
+  .kard1 button {
+    font-size: 10px;
+    width: 105px;
+    height: 26px;
+  }
+  .kard1 {
+    width: 167px;
+    height: 307px;
+    padding: 0 0 0 20px;
+  }
+  .footer img {
+    width: 134px;
+  }
+  .footer p {
+    font-size: 10px;
+    line-height: 10px;
+  }
+  .icon div {
+    font-size: 18px;
+    width: 29px;
+    height: 29px;
+  }
+}
+@media (max-width: 400px) {
+  .header img {
+    width: 75px;
+  }
+  .header-nav button {
+    font-size: 8px;
+    width: 65px;
+    height: 18px;
+  }
+  .section-text h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .section-text p {
+    padding: 7px 0;
+    font-size: 10px;
+    line-height: 14px;
+  }
+  .section-text button {
+    font-size: 10px;
+    width: 83px;
+    height: 26px;
+  }
+  .section-pos img {
+    width: 245px;
+  }
+  .section1-title {
+    width: 113px;
+    height: 54px;
+  }
+  .section1-title img {
+    width: 40px;
+  }
+  .icons {
+    font-size: 6px;
+  }
+  .section2-title img {
+    width: 38px;
+  }
+
+  .section2-title {
+    width: 113px;
+    height: 54px;
+  }
+  .section2-title {
+    position: relative;
+    right: -197px;
+    top: -16px;
+  }
+  .section1-title {
+    position: relative;
+    right: 25px;
+    bottom: -28px;
+  }
+  .section-conts img {
+    width: 246px;
+  }
+  .conts-text h1 {
+    font-size: 26px;
+    line-height: 26px;
+  }
+  .conts-text h3 {
+    font-size: 12px;
+  }
+  .conts-text p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  .conts-text button {
+    font-size: 10px;
+    width: 92px;
+    height: 28px;
+  }
+  .section-conts {
+    padding: 14px 0 24px 0;
+  }
+  .pricing p {
+    font-size: 14px;
+  }
+  .pricing h1 {
+    padding: 0px 0 12px 0;
+    font-size: 26px;
+  }
+  .kard1 h1 {
+    font-size: 17px;
+  }
+  .pric span {
+    font-size: 12px;
+  }
+  .pric h2 {
+    font-size: 22px;
+  }
+  .section-kards p {
+    padding-bottom: 0;
+    font-size: 11px;
+  }
+  .kard1 button {
+    font-size: 10px;
+    width: 94px;
+    height: 23px;
+  }
+  .kard1 {
+    width: 141px;
+    height: 278px;
+    padding: 0 0 0 14px;
+  }
+}
+@media (max-width: 376px) {
+  .header-nav button {
+    margin-left: 6px;
+  }
+  .section-text h1 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .section-text h3 {
+    font-size: 14px;
+  }
+  .section-text h1 span {
+    font-size: 28px;
+  }
+  .section-pos img {
+    width: 210px;
+  }
+  .section1-title img {
+    width: 37px;
+  }
+  .text h2 {
+    padding-top: 4px;
+    font-size: 7px;
+  }
+  .icons {
+    font-size: 5px;
+  }
+  .section1-title {
+    width: 108px;
+    height: 53px;
+  }
+  .section2-title {
+    width: 107px;
+    height: 53px;
+  }
+  .section2-title {
+    position: relative;
+    right: -174px;
+    top: -16px;
+  }
+  .section-conts img {
+    width: 244px;
+  }
+  .conts-text h1 {
+    font-size: 23px;
+    line-height: 26px;
+  }
+  .conts-text h3 {
+    font-size: 10px;
+  }
+  .conts-text p {
+    font-size: 9px;
+    line-height: 16px;
+  }
+  .conts-text button {
+    font-size: 10px;
+    width: 84px;
+    height: 24px;
+  }
+  .pricing h1 {
+    padding: 0px 0 10px 0;
+    font-size: 24px;
+  }
+  .kard1 h1 {
+    font-size: 15px;
+  }
+  .pric h4 {
+    font-size: 14px;
+  }
+  .pric h2 {
+    font-size: 18px;
+  }
+  .pric span {
+    font-size: 10px;
+  }
+  .section-kards p {
+    font-size: 10px;
+  }
+  .kard1 button {
+    font-size: 10px;
+    width: 83px;
+    height: 20px;
+    margin-top: 2px;
+  }
+  .kard1 {
+    width: 122px;
+    height: 250px;
+    padding: 0 0 0 14px;
+  }
+  .footer img {
+    width: 120px;
+  }
+  .footer p {
+    font-size: 9px;
+    line-height: 8px;
+  }
+  .footer p {
+    font-size: 9px;
+    line-height: 8px;
+  }
+}
+@media (max-width: 320px) {
+  .header-nav button {
+    font-size: 6px;
+    width: 53px;
+    height: 12px;
+  }
+  .header-nav a {
+    margin-left: 1px;
+    font-size: 8px;
+  }
+  .header img {
+    width: 51px;
+  }
+  .header {
+    padding: 10px 29px 11px 30px;
+  }
+  .section-text h3 {
+    font-size: 12px;
+    padding-top: 1px;
+  }
+  .section-text h1 {
+    font-size: 24px;
+    line-height: 25px;
+  }
+  .section-text h1 span {
+    font-size: 24px;
+  }
+  .section-text p {
+    padding: 7px 0;
+    font-size: 8px;
+    line-height: 10px;
+  }
+  .section-text button {
+    font-size: 8px;
+    width: 66px;
+    height: 18px;
+  }
+  .section1-title img {
+    width: 30px;
+  }
+  .text h2 {
+    padding-top: 0px;
+    font-size: 6px;
+    line-height: 9px;
+  }
+  .text p {
+    margin: 3px 0;
+    font-size: 5px;
+    line-height: 0px;
+  }
+  .section1-title {
+    width: 91px;
+    height: 43px;
+  }
+  .section2-title img {
+    width: 29px;
+  }
+  .section2-title {
+    width: 91px;
+    height: 43px;
+  }
+  .section2-title {
+    position: relative;
+    right: -154px;
+    top: -14px;
+  }
+  .section1-title {
+    position: relative;
+    right: 11px;
+    bottom: -21px;
+  }
+  .section-conts img {
+    width: 221px;
+  }
+  .conts-text h1 {
+    font-size: 18px;
+    line-height: 16px;
+  }
+  .conts-text h3 {
+    font-size: 9px;
+    padding-bottom: 5px;
+  }
+  .conts-text p {
+    padding: 5px 0;
+    font-size: 7px;
+    line-height: 10px;
+  }
+  .conts-text button {
+    font-size: 8px;
+    width: 66px;
+    height: 17px;
+  }
+  .pricing p {
+    font-size: 12px;
+  }
+  .pricing h1 {
+    padding: 0px 0 0px 0;
+    font-size: 20px;
+  }
+  .kard1 h1 {
+    font-size: 12px;
+    padding-top: 6px;
+  }
+  .pric h4 {
+    font-size: 10px;
+  }
+  .pric h4 {
+    font-size: 10px;
+  }
+  .pric span {
+    font-size: 9px;
+  }
+  .section-kards p {
+    line-height: 14px;
+    font-size: 8px;
+  }
+  .pric {
+    margin: 7px 0 11px 0;
+  }
+  .kard1 button {
+    font-size: 7px;
+    width: 69px;
+    height: 20px;
+    margin-top: 11px;
+  }
+  .kard1 {
+    width: 108px;
+    height: 178px;
+    padding: 0 0 0 11px;
+  }
+  #footer {
+    padding: 14px 64px 17px 69px;
+  }
+  .footer img {
+    width: 100px;
+}
+.footer p {
+    font-size: 8px;
+    line-height: 0px;
+}
+.icon div {
+    font-size: 14px;
+    width: 18px;
+    height: 18px;
+    margin-left: 4px;
+}
+.section-pos img {
+    width: 197px;
+    margin-right: 40px;
+}
+.section1-title img {
+    width: 30px;
+}
+
+
+}
